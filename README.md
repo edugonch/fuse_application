@@ -4,7 +4,7 @@ Write a program that prints a multiplication table of primes numbers. The progra
 
 An example of the way the application may run:
 
-<executable_script_name> --count 10
+executable_script_name --count 10
 
 An example of the output:
 
