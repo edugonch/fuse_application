@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    slop (4.4.0)
+    terminal-table (1.6.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  slop
+  terminal-table
+
+BUNDLED WITH
+   1.12.5
