@@ -1,10 +1,6 @@
-Objective
+# Objective
 
-Write a program that prints a multiplication table of primes numbers. The program should take an argument from the
-
-command line that specifies the amount of prime numbers to generate and print out a multiplication table for these
-
-prime numbers
+Write a program that prints a multiplication table of primes numbers. The program should take an argument from the command line that specifies the amount of prime numbers to generate and print out a multiplication table for these prime numbers
 
 An example of the way the application may run:
 
